@@ -1,6 +1,6 @@
 A program that prompts for a file name, then opens that file and reads through the file, looking for lines of the form: "X-DSPAM-Confidence:    0.8475"
 Count these lines and extract the floating point values from each of the lines and compute the average of those values and produce an output as "Average spam confidence: 0.7507185185185187". 
-when you are testing above, enter mbox-short.txt as the file name to use the same code subjcet to modification in texfile location path depeding on your local machine.
+when you are testing above, enter *****.txt as the file name to use the same code subjcet to modification in texfile location path depeding on your local machine.
 
 Content of the Text file will be:
 
